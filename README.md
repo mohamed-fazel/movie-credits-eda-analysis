@@ -147,10 +147,10 @@ jupyter notebook
 
 ## 💼 Author
 
-Fazel
+Mohamed Fazel
 
 ---
 
-## ⭐ If you like this project
+##  If you like this project
 
 Give it a ⭐ on GitHub!
